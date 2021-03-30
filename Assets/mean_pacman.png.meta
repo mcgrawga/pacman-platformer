@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: dd695d06acc954853a7ac387eb0bf489
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3453265852691512260
+    second: mean_pacman_0
+  - first:
+      213: -1696994055999926743
+    second: mean_pacman_1
+  - first:
+      213: -6643976811133651424
+    second: mean_pacman_2
+  - first:
+      213: -3205072765201984185
+    second: mean_pacman_3
+  - first:
+      213: -7342904743838532486
+    second: mean_pacman_4
+  - first:
+      213: -1743875743040463264
+    second: mean_pacman_5
+  - first:
+      213: -1680535261280877772
+    second: mean_pacman_6
+  - first:
+      213: -429592414204671238
+    second: mean_pacman_7
+  - first:
+      213: -4974474640026353658
+    second: mean_pacman_8
+  - first:
+      213: -2273250511737962259
+    second: mean_pacman_9
+  - first:
+      213: 8090879990505042110
+    second: mean_pacman_10
+  - first:
+      213: 2293392218858728568
+    second: mean_pacman_11
+  - first:
+      213: 5755107110301248601
+    second: mean_pacman_12
+  - first:
+      213: 4516355749914547186
+    second: mean_pacman_13
+  - first:
+      213: 1282993959445565027
+    second: mean_pacman_14
+  - first:
+      213: 2136367671190592340
+    second: mean_pacman_15
+  - first:
+      213: -5277031528388720774
+    second: mean_pacman_16
+  - first:
+      213: -7782499870678098933
+    second: mean_pacman_17
+  - first:
+      213: 7849485410628193810
+    second: mean_pacman_18
+  - first:
+      213: -5147107186467891959
+    second: mean_pacman_19
+  - first:
+      213: 6837084158874447063
+    second: mean_pacman_20
+  - first:
+      213: 1639525411562988282
+    second: mean_pacman_21
+  - first:
+      213: -4193534871662360337
+    second: mean_pacman_22
+  - first:
+      213: 17553584411527224
+    second: mean_pacman_23
+  - first:
+      213: 7666301612378279080
+    second: mean_pacman_24
+  - first:
+      213: -6533826798671399748
+    second: mean_pacman_25
+  - first:
+      213: 2407930835560643583
+    second: mean_pacman_26
+  - first:
+      213: -5758391925679881822
+    second: mean_pacman_27
+  - first:
+      213: -9081979202929070531
+    second: mean_pacman_28
+  - first:
+      213: 2353889244451160066
+    second: mean_pacman_29
+  - first:
+      213: -3969826169646267042
+    second: mean_pacman_30
+  - first:
+      213: -3376856218473499005
+    second: mean_pacman_31
+  - first:
+      213: -9195681190385108998
+    second: mean_pacman_32
+  - first:
+      213: 4062898675160309367
+    second: mean_pacman_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mean_pacman_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 136
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34065fc0098310d0800000000000000
+      internalID: -3453265852691512260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mean_pacman_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ecc2aa5e01378e0800000000000000
+      internalID: -1696994055999926743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
